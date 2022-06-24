@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "id": 3,
+      "name": "product one",
+      "body": "n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+      "img": "assets/2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "product two",
+      "body": "n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+      "img": "assets/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "product three",
+      "body": "n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+      "img": "assets/3 (1).jpg"
+    },
+    {
+      "id": 6,
+      "name": "product four",
+      "body": "n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+      "img": "assets/4.jpg"
+    },
+    {
+      "id": 7,
+      "name": "product Five",
+      "body": "n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+      "img": "assets/3 (1).jpg"
+    },
+    {
+      "id": 8,
+      "name": "product six",
+      "body": "n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+      "img": "assets/4.jpg"
+    },
+    {
+      "id": 9,
+      "name": "product seven",
+      "body": "n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+      "img": "assets/6.jpg"
+    }
+  ]
+}

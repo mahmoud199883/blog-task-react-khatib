@@ -1,0 +1,20 @@
+.navbar span
+{
+    float: left;
+    color:aqua;
+}
+.navbar{
+    padding: 20px 30px;
+    text-decoration: none;
+    background-color: rgb(101, 101, 221); 
+    color: white;
+}
+.navbarLinks .links 
+{
+    padding: 5px 10px; 
+    margin: 5px 20px;
+    background-color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-right: 20px;
+}
